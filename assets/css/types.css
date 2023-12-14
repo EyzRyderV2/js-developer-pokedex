@@ -1,0 +1,71 @@
+.pokemon.grass {
+  background-color: #68e7cc;
+}
+
+.pokemon.fire {
+  background-color: #fb6c6c;
+}
+
+.pokemon.water {
+  background-color: #77befe;
+}
+
+.pokemon.normal {
+  background-color: #d3bf64;
+}
+
+.pokemon.electric {
+  background-color: #ffdc7d;
+}
+
+.pokemon.ice {
+  background-color: #61e3e6;
+}
+
+.pokemon.ground {
+  background-color: #e1b967;
+}
+
+.pokemon.flying {
+  background-color: #a080e9;
+}
+
+.pokemon.poison {
+  background-color: #c44cd4;
+}
+
+.pokemon.fighting {
+  background-color: #f35d2f;
+}
+
+.pokemon.psychic {
+  background-color: #fc7496;
+}
+
+.pokemon.dark {
+  background-color: #685041;
+}
+
+.pokemon.rock {
+  background-color: #e0c556;
+}
+
+.pokemon.bug {
+  background-color: #9fb134;
+}
+
+.pokemon.ghost {
+  background-color: #8f65dd;
+}
+
+.pokemon.steel {
+  background-color: #a3a0b8;
+}
+
+.pokemon.dragon {
+  background-color: #7059f3;
+}
+
+.pokemon.fairy {
+  background-color: #f19ab7;
+}
