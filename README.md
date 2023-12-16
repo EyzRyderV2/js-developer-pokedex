@@ -1,4 +1,12 @@
 # Desafio da Dio: js-developer-pokedex
-Além de explorar o mundo Pokémon através do consumo de uma API REST para a criação de uma Pokédex incrível! Para isso, você irá explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web aprendidos até aqui.
-O desafio consiste em uma continuação do projeto pokedex que foi feito nas aulas do curso, no qual o desafio é de fazer a pagina de detalhes do pokemon especifico.
 
+Bem-vindo ao Desafio de Desenvolvimento JavaScript da DIO! Neste desafio, explorei o fascinante mundo Pokémon enquanto aprimora suas habilidades de desenvolvimento web. A tarefa principal consiste em aprimorar o projeto Pokedex desenvolvido durante as aulas do curso, adicionando uma página de detalhes para exibir informações específicas sobre cada Pokémon.
+
+## Objetivo
+
+O objetivo deste desafio é expandir a funcionalidade da Pokedex, aproveitando os conceitos e técnicas de desenvolvimento web que foram ensinados no curso. Agora, além de consumir uma API REST para listar Pokémon, implementação de uma dialog de detalhes para exibir informações mais específicas sobre cada Pokémon selecionado.
+
+## Tarefas
+
+1. **Detalhes do Pokémon:**
+   - Implemente a funcionalidade para exibir informações detalhadas sobre um Pokémon específico ao clicar em sua entrada na Pokedex.
