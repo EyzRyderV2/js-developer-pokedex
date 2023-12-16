@@ -7,6 +7,12 @@
 
 body {
   background-color: #f6f8fc;
+  display: flex;
+  flex-direction: column;
+}
+
+body:has(.modal){
+  overflow: hidden;
 }
 
 .content {

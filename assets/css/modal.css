@@ -1,0 +1,110 @@
+.modal {
+  position: fixed;
+  display: flex;
+  flex: 1 0%;
+  flex-direction: column;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100vw;
+  height: 100vh;
+}
+
+.modal>* {
+  padding: 1rem;
+}
+
+.modal .name {
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.modal>nav {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.modal>nav>button {
+  color: white;
+  padding: .3rem;
+  background-color: transparent;
+  border: none;
+}
+
+.modal>.top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding: 0rem 1.5rem;
+}
+
+.modal .left {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.top .types {
+  display: flex;
+  gap: .5rem;
+}
+
+.top .number {
+  font-weight: 900;
+}
+
+.modal>.imgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0;
+}
+
+.modal>.imgContainer>img {
+  max-width: 100%;
+  max-height: 100%;
+  width: 250px;
+  height: auto;
+}
+
+.modal>.details {
+  display: flex;
+  flex: 1 0%;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+  border-top-left-radius: 1.5rem;
+  border-top-right-radius: 1.5rem;
+  align-items: center;
+  padding-top: 2rem;
+  overflow-y: auto;
+}
+
+.modal>.details>nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.modal>.details .stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1rem;
+}
+
+.modal>.details .stat {
+  color: rgb(161, 161, 161);
+  text-transform: capitalize;
+}
+
+.modal>.details article {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: .3rem;
+}

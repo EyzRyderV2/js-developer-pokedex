@@ -1,71 +1,71 @@
-.pokemon.grass {
-  background-color: #68e7cc;
+.pokemon.grass, .modal.grass {
+  background-color: #46d1b2;
 }
 
-.pokemon.fire {
+.pokemon.fire, .modal.fire {
   background-color: #fb6c6c;
 }
 
-.pokemon.water {
+.pokemon.water, .modal.water {
   background-color: #77befe;
 }
 
-.pokemon.normal {
+.pokemon.normal, .modal.normal {
   background-color: #d3bf64;
 }
 
-.pokemon.electric {
+.pokemon.electric, .modal.electric {
   background-color: #ffdc7d;
 }
 
-.pokemon.ice {
+.pokemon.ice, .modal.ice {
   background-color: #61e3e6;
 }
 
-.pokemon.ground {
+.pokemon.ground, .modal.ground {
   background-color: #e1b967;
 }
 
-.pokemon.flying {
+.pokemon.flying, .modal.flying {
   background-color: #a080e9;
 }
 
-.pokemon.poison {
+.pokemon.poison, .modal.poison {
   background-color: #c44cd4;
 }
 
-.pokemon.fighting {
+.pokemon.fighting, .modal.fighting {
   background-color: #f35d2f;
 }
 
-.pokemon.psychic {
+.pokemon.psychic, .modal.psychic {
   background-color: #fc7496;
 }
 
-.pokemon.dark {
+.pokemon.dark, .modal.dark {
   background-color: #685041;
 }
 
-.pokemon.rock {
+.pokemon.rock, .modal.rock {
   background-color: #e0c556;
 }
 
-.pokemon.bug {
+.pokemon.bug, .modal.bug {
   background-color: #9fb134;
 }
 
-.pokemon.ghost {
+.pokemon.ghost, .modal.ghost {
   background-color: #8f65dd;
 }
 
-.pokemon.steel {
+.pokemon.steel, .modal.steel {
   background-color: #a3a0b8;
 }
 
-.pokemon.dragon {
+.pokemon.dragon, .modal.dragon {
   background-color: #7059f3;
 }
 
-.pokemon.fairy {
+.pokemon.fairy, .modal.fairy {
   background-color: #f19ab7;
 }
