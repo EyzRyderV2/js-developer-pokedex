@@ -10,3 +10,9 @@ O objetivo deste desafio é expandir a funcionalidade da Pokedex, aproveitando o
 
 1. **Detalhes do Pokémon:**
    - Implemente a funcionalidade para exibir informações detalhadas sobre um Pokémon específico ao clicar em sua entrada na Pokedex.
+
+# Dev
+<a href="https://github.com/EyzRyder">
+  <img src="https://avatars.githubusercontent.com/u/85580011?v=4" alt="Gabriel" width="90" height="90"/>
+  <p>EyzRyder</p>
+</a>
